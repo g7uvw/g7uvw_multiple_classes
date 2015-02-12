@@ -1,10 +1,7 @@
 //
 //  structure.h
 //  ClassTest
-//
-//  Created by David Mills on 12/02/2015.
-//  Copyright (c) 2015 David Mills. All rights reserved.
-//
+
 
 #ifndef ClassTest_structure_h
 #define ClassTest_structure_h
