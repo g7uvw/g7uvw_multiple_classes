@@ -5,7 +5,7 @@
 
 using namespace std;
 
-class SecondClass:public FirstClass {
+class SecondClass {
     
 public:
     void increase(void);
